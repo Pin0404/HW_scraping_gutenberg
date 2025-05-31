@@ -28,4 +28,4 @@ Python 3.13.3
 python HW_gutenberg.py
 
 ## 成果
-YouTube連結：
+YouTube連結：https://youtu.be/eyY_cDhqxRI
